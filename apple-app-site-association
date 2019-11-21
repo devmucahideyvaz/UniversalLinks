@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "N4JW969H2K.dogus.kral",
+        "paths": [ "*", "/" ]
+      }
+    ]
+  }
+}
